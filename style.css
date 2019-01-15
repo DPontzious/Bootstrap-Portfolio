@@ -1,0 +1,59 @@
+.col-sm-2{
+    background-color: #c2e5b9;
+}
+body{
+    background: url(http://walli.co/wp-content/uploads/2018/07/vector-rose-seamless-flower-background-pattern-floral-fabric-vintage-wallpaper-cute-backdrop-stock-tumblr-pa.jpg)
+}
+.row-about{
+    background: #e9a090;
+    margin-top: 20px;
+    border-bottom: #c2e5b9 solid 3px;
+    border-top: #e9a090 solid 5px;
+    width: 100%;
+}
+.row-main{
+    background-color:#e9a090;
+    border:	#e9a090 solid 30px;
+    margin-bottom: 75px;
+}
+.footer{
+    background-color: #c2e5b9;
+    height: 40px;
+    border-top: #e9a090 solid 5px;
+    margin-top: 20px;
+    width:100%;
+
+}
+.row-port{
+    background: #e9a090;
+    border:	#e9a090 solid 30px;
+    margin-bottom: 75px;
+   
+}
+.row{
+    margin-top: 30px;
+}
+.navbar-text{
+    margin-left: 150px;
+    background: #e9a090;
+    border: 5px #c2e5b9 solid;
+}
+.navbar-expand-lg{
+    background: url(http://walli.co/wp-content/uploads/2018/07/vector-rose-seamless-flower-background-pattern-floral-fabric-vintage-wallpaper-cute-backdrop-stock-tumblr-pa.jpg);
+    margin-right: 80px;
+}
+.navbar-brand{
+    background: #e9a090;
+    margin-left: 60px;
+    border: solid #e9a090 15px;
+}
+
+img{
+border: 15px solid #c2e5b9;
+height: 200px;
+}
+h3{
+    font-size: 60px;
+    color: #c2e5b9;
+}
+
